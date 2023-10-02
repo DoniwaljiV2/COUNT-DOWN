@@ -32,7 +32,7 @@
 }
 .col
 {
-  width: 1000px;
+  width: 75%;
   columns: white;
   display: flex;
   justify-content: center;
